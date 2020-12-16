@@ -1,4 +1,4 @@
-package com.example.demo.service.country;
+package com.example.demo.service.Country;
 
 import com.example.demo.model.Country;
 import com.example.demo.repo.CountryRepository;
